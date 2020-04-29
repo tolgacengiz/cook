@@ -1,2 +1,0 @@
-# cook
-Created with CodeSandbox
